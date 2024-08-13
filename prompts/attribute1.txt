@@ -1,0 +1,5 @@
+Name this file with the name of attribute. Replace this content 
+with the prompt for this attribute. The prompt should contain
+instructions on how to indentify and extract this attribute.
+Describe all the typical ways this attribute will appear with
+examples.
